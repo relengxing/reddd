@@ -15,6 +15,10 @@
         <module>reddd-facade</module>
         <module>reddd-application</module>
         <module>reddd-domain</module>
+        <module>reddd-repository</module>
+        <module>reddd-rest</module>
+        <module>reddd-utility</module>
+        <module>reddd-job</module>
     </modules>
 
     <properties>
@@ -65,12 +69,7 @@
 
             <dependency>
                 <groupId>com.relengxing.reddd</groupId>
-                <artifactId>reddd-framework</artifactId>
-                <version>${project.version}</version>
-            </dependency>
-            <dependency>
-                <groupId>com.relengxing.reddd</groupId>
-                <artifactId>reddd-middleware</artifactId>
+                <artifactId>reddd-job</artifactId>
                 <version>${project.version}</version>
             </dependency>
             <dependency>

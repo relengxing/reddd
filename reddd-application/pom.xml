@@ -21,5 +21,15 @@
             <groupId>com.relengxing.reddd</groupId>
             <artifactId>reddd-domain</artifactId>
         </dependency>
+
+        <dependency>
+            <groupId>com.relengxing.reddd</groupId>
+            <artifactId>reddd-repository</artifactId>
+        </dependency>
+
+        <dependency>
+            <groupId>com.relengxing.reddd</groupId>
+            <artifactId>reddd-infrastructure</artifactId>
+        </dependency>
     </dependencies>
 </project>

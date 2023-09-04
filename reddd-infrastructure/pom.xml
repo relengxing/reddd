@@ -10,12 +10,9 @@
     </parent>
 
     <artifactId>reddd-infrastructure</artifactId>
-    <packaging>pom</packaging>
 
     <modules>
-        <module>reddd-repository</module>
-        <module>reddd-middleware</module>
-        <module>reddd-framework</module>
+
     </modules>
 
     <properties>
@@ -23,5 +20,13 @@
         <maven.compiler.target>8</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
+
+
+    <dependencies>
+        <dependency>
+            <groupId>com.relengxing.reddd</groupId>
+            <artifactId>reddd-domain</artifactId>
+        </dependency>
+    </dependencies>
 
 </project>

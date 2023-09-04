@@ -19,18 +19,8 @@
 
     <dependencies>
         <dependency>
-            <groupId>com.relengxing.reddd</groupId>
-            <artifactId>reddd-framework</artifactId>
-        </dependency>
-
-        <dependency>
-            <groupId>com.relengxing.reddd</groupId>
-            <artifactId>reddd-middleware</artifactId>
-        </dependency>
-
-        <dependency>
-            <groupId>com.relengxing.reddd</groupId>
-            <artifactId>reddd-repository</artifactId>
+            <groupId></groupId>
+            <artifactId></artifactId>
         </dependency>
     </dependencies>
 
