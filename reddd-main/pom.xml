@@ -24,10 +24,6 @@
         </dependency>
         <dependency>
             <groupId>com.relengxing.reddd</groupId>
-            <artifactId>reddd-rpc</artifactId>
-        </dependency>
-        <dependency>
-            <groupId>com.relengxing.reddd</groupId>
             <artifactId>reddd-job</artifactId>
         </dependency>
     </dependencies>
