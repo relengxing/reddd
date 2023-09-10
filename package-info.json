@@ -1,5 +1,6 @@
 {
   "groupId": "com.relengxing.reddd",
   "artifactId": "reddd",
-  "package-info": "com.relengxing.reddd"
+  "packageName": "com.relengxing.reddd",
+  "title": "reddd"
 }
