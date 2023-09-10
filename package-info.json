@@ -2,5 +2,7 @@
   "groupId": "com.relengxing.reddd",
   "artifactId": "reddd",
   "packageName": "com.relengxing.reddd",
-  "title": "reddd"
+  "title": "reddd",
+  "ignore": [".git", ".idea", "target"],
+  "whiteList": [".jpg", ".png", ".jpeg"]
 }
