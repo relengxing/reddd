@@ -3,6 +3,15 @@
   "artifactId": "reddd",
   "packageName": "com.relengxing.reddd",
   "title": "reddd",
-  "ignore": [".git", ".idea", "target"],
-  "whiteList": [".jpg", ".png", ".jpeg"]
+  "ignore": [
+    ".git",
+    ".idea",
+    "target"
+  ],
+  "whiteList": [
+    ".jpg",
+    ".png",
+    ".jpeg",
+    ".gitignore"
+  ]
 }
