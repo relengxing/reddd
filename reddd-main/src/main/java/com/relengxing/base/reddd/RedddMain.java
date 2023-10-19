@@ -1,4 +1,4 @@
-package com.relengxing.reddd;
+package com.relengxing.base.reddd;
 
 
 import org.springframework.boot.SpringApplication;

@@ -1,7 +1,7 @@
 {
-  "groupId": "com.relengxing.reddd",
+  "groupId": "com.relengxing.base",
   "artifactId": "reddd",
-  "packageName": "com.relengxing.reddd",
+  "packageName": "com.relengxing.base.reddd",
   "title": "reddd",
   "ignore": [
     ".git",
