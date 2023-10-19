@@ -4,7 +4,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.relengxing.reddd</groupId>
+    <groupId>com.relengxing.base</groupId>
     <artifactId>reddd</artifactId>
     <version>1.0.0-SNAPSHOT</version>
     <packaging>pom</packaging>
@@ -37,44 +37,44 @@
         <dependencies>
             <!--内部-->
             <dependency>
-                <groupId>com.relengxing.reddd</groupId>
+                <groupId>com.relengxing.base</groupId>
                 <artifactId>reddd-api</artifactId>
                 <version>${project.version}</version>
             </dependency>
             <dependency>
-                <groupId>com.relengxing.reddd</groupId>
+                <groupId>com.relengxing.base</groupId>
                 <artifactId>reddd-application</artifactId>
                 <version>${project.version}</version>
             </dependency>
             <dependency>
-                <groupId>com.relengxing.reddd</groupId>
+                <groupId>com.relengxing.base</groupId>
                 <artifactId>reddd-facade</artifactId>
                 <version>${project.version}</version>
             </dependency>
             <dependency>
-                <groupId>com.relengxing.reddd</groupId>
+                <groupId>com.relengxing.base</groupId>
                 <artifactId>reddd-domain</artifactId>
                 <version>${project.version}</version>
             </dependency>
             <dependency>
-                <groupId>com.relengxing.reddd</groupId>
+                <groupId>com.relengxing.base</groupId>
                 <artifactId>reddd-infrastructure</artifactId>
                 <version>${project.version}</version>
             </dependency>
 
             <dependency>
-                <groupId>com.relengxing.reddd</groupId>
+                <groupId>com.relengxing.base</groupId>
                 <artifactId>reddd-rest</artifactId>
                 <version>${project.version}</version>
             </dependency>
 
             <dependency>
-                <groupId>com.relengxing.reddd</groupId>
+                <groupId>com.relengxing.base</groupId>
                 <artifactId>reddd-job</artifactId>
                 <version>${project.version}</version>
             </dependency>
             <dependency>
-                <groupId>com.relengxing.reddd</groupId>
+                <groupId>com.relengxing.base</groupId>
                 <artifactId>reddd-repository</artifactId>
                 <version>${project.version}</version>
             </dependency>
